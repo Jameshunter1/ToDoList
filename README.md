@@ -8,16 +8,25 @@ To get started with this project, simply clone the repository and open the index
 
 # Features
 
-- Adding an task
-- Crossing out a completed task
-- Renders the current date
+- Adding an item
+- Removing an item
+- Rendering the current date
 
 # Technologies Used
 
 - JavaScript
 - HTML
 - CSS
+- EJS
 
+
+Future Plans
+I plan to continue expanding and improving upon this project as I continue to learn and grow as a developer. Some potential ideas for future updates include:
+
+- Deploy app with a database using Heroku
+- Adding more interactive elements, such as a slideshow or image carousel
+- Implementing responsive design to make the application more mobile-friendly
+- Incorporating additional JavaScript libraries or frameworks, such as React or Vue.js
 
 
 ![todollist](https://user-images.githubusercontent.com/90528783/199352367-f467ae76-be10-4ab2-986a-af7e961eb050.PNG)
