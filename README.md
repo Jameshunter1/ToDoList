@@ -10,6 +10,7 @@ To get started with this project, simply clone the repository and open the index
 
 - Adding an task
 - Crossing out a completed task
+- Renders the current date
 
 # Technologies Used
 
