@@ -4,7 +4,12 @@ This project is a simple JavaScript application that demonstrates my skills in t
 
 # Getting Started
 
-To get started with this project, simply clone the repository and open the index.html file in your web browser. No additional setup is required.
+To get started with this project:
+
+- Clone this repository
+- Run npm install inside the project directory
+- To start the server run node app.js 
+
 
 # Features
 
