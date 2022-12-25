@@ -26,6 +26,7 @@ To get started with this project:
 
 
 Future Plans
+
 I plan to continue expanding and improving upon this project as I continue to learn and grow as a developer. Some potential ideas for future updates include:
 
 - Deploy app with a database using Heroku
