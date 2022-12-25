@@ -1,6 +1,6 @@
 # To Do List
 
-This project is a simple JavaScript application that demonstrates my skills in the language. It includes a few basic features and is intended as a portfolio piece.
+This project is a simple JavaScript application that demonstrates my skills connecting to a database. It includes a few basic features and is intended as a portfolio piece.
 
 # Getting Started
 
@@ -25,7 +25,7 @@ To get started with this project:
 - EJS
 
 
-Future Plans
+# Future Plans
 
 I plan to continue expanding and improving upon this project as I continue to learn and grow as a developer. Some potential ideas for future updates include:
 
